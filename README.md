@@ -8,3 +8,5 @@ Zero ist ein Projekt, eine Art Ergänzung zum Hostinganbieter Alpha-Host! Alpha-
 - Level-Systeme
 - Timer
 - more soon!
+
+Verfolge uns auf GitHub und erfahre, was wir alles ändern: [hier](https://github.com/Zero-Discord/Uebersicht/projects/2)
