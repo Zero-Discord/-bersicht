@@ -6,4 +6,4 @@ Frage haben sollten, wenden sie sich gerne an den [Support](https://discord.gg/M
 🇺🇸󠁧󠁢󠁥󠁮󠁧󠁿 
 # Security file
 Given that we have our first personal rights, we know you are rights and not forbearance. If you have a
-Have heard any questions, please contact the [Support] (https://discord.gg/M2uBPp7pZM)!
+Have heard any questions, please contact the [Support](https://discord.gg/M2uBPp7pZM)!
