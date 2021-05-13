@@ -5,5 +5,4 @@ Frage haben sollten, wenden sie sich gerne an den [Support](https://discord.gg/M
 
 🇺🇸󠁧󠁢󠁥󠁮󠁧󠁿 
 # Security file
-Given that we have our first personal rights, we know you are rights and not forbearance. If you have a
-Have heard any questions, please contact the [Support](https://discord.gg/M2uBPp7pZM)!
+As soon as we have published our first files, we will inform you here about the supported and unsupported versions. Should you still have a question, please do not hesitate to contact [support](https://discord.gg/M2uBPp7pZM)!
